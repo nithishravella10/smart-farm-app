@@ -20,4 +20,4 @@ Developing a web application to control multiple motors on the farm. The applica
 As part of future development, the plan is to historical data over past 40 years of nearby weather station to generate weekly predictions. Additionally, the system will issue alerts if there is a probability of rain within the next 3 hours based on predictions for decision making.
 
 **Architecture:**  
-![](https://github.com/nithishravella10/icecream-truck-solution/blob/main/iceCreamTruckArchRev1.png)
+![Architecture](https://github.com/nithishravella10/smart-farm-app/blob/main/smartFarmAppArchRev0.png)
