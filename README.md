@@ -1,5 +1,5 @@
 # Smart Farm Application
-Creating a simple web application for managing farm motors remotely, allowing farmer to turn them on and off. The app also fetches weekly weather predictions from open APIs and provides real-time weather information from sensors deployed on the farm.
+Creating a simple web application for managing farm motors remotely, allowing farmer to turn them on and off, this app also fetches weekly weather predictions from open APIs and provides real-time weather information from sensors deployed on the farm.
 
 # Project Update: Preliminary Implementation
 The project is currently in the initial stages of implementation. Please review the solution idea and architecture details. Check back in one week for the latest updates on the project's progress. Thank you for your interest
